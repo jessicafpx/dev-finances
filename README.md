@@ -1,23 +1,16 @@
-<!-- <h1 align="center">
-    <img src="./assets/gif.gif" alt="Gif da aplicação"/>
-</h1> -->
+<h1 align="center">
+    <img src="./assets/dev-finances.png" alt="Dev Finances"/>
+</h1>
 
 
 # Dev Finances 💰
 Aplicação desenvolvida durante a Maratona Discover da Rocketseat que permite adicionar e remover transações para auxiliar a organização financeira.
 
 ## 💻 Projeto
-
 ### Tecnologias
 - HTML
 - CSS
 - JavaScript
-
-<!-- ### Conhecimentos obtidos
-- Utilização do SASS, que possibilita a criação de variáveis, funções, aninhamento de classes, importação de arquivos, entre outras diversas funcionalidades;
-- Utilização do efeito Vanilla Tilt, que possibilita efeito 3D no card;
-- Utilização do conceito de responsividade no layout das telas. -->
-
 
 ## 🔧 Executar no seu PC
 
