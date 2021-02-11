@@ -3,7 +3,7 @@
 </h1>
 
 
-# Dev Finances 💰
+# 💰 Dev Finances 
 Aplicação desenvolvida durante a Maratona Discover da Rocketseat que permite adicionar e remover transações para auxiliar a organização financeira.
 
 ## 💻 Projeto
